@@ -1,3 +1,10 @@
+<#	
+	.NOTES
+		Created with love by </nerdatwork>
+
+	.DESCRIPTION
+		Storage Node Operator Payout History Report calculates the payment received by SNO for a node in its lifetime.
+#>
 
 function Get-NodeInfo
 {
